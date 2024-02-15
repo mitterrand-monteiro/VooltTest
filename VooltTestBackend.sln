@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VooltTestBackend", "VooltTestBackend\VooltTestBackend.csproj", "{597AAD7A-F6D2-4139-B347-C2AD3D70A7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VooltTestBackendTests", "VooltTestBackendTests\VooltTestBackendTests.csproj", "{45E6686F-4B8E-4D36-A060-4E5538F0D509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{597AAD7A-F6D2-4139-B347-C2AD3D70A7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597AAD7A-F6D2-4139-B347-C2AD3D70A7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597AAD7A-F6D2-4139-B347-C2AD3D70A7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597AAD7A-F6D2-4139-B347-C2AD3D70A7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E6686F-4B8E-4D36-A060-4E5538F0D509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E6686F-4B8E-4D36-A060-4E5538F0D509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E6686F-4B8E-4D36-A060-4E5538F0D509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E6686F-4B8E-4D36-A060-4E5538F0D509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBEE0941-E5CA-4F47-8643-96831B990ABC}
+	EndGlobalSection
+EndGlobal
